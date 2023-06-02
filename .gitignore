@@ -1,3 +1,16 @@
+# OSX
+.DS_STORE
+
+# Models
+models/
+
+# Source documents
+source_documents/
+
+# Local Chroma db
+.chroma/
+db/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -158,3 +171,4 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+privateGPT.py
